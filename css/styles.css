@@ -38,3 +38,15 @@ body {
 .footer {
   font-style: italic;
 }
+
+.education-table, th, td{
+  border: 5px solid white;
+  border-collapse: collapse;
+  background-color: #96D4D4;
+}
+
+.work-experience-table {
+  border: 5px solid white;
+  border-collapse: collapse;
+  background-color: #96D4D4;
+}
