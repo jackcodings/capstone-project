@@ -54,3 +54,12 @@ body {
 .fa-linkedin {
   color: #0A66C2;
 }
+
+.fa-envelope {
+  color: #D14836;
+}
+
+.contact-list {
+  list-style-type: none;
+  padding: 0;
+}
