@@ -68,3 +68,10 @@ body {
   font-style: italic;
   border-radius: 5px;
 }
+
+.profile-picture {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight:bold;
+}
